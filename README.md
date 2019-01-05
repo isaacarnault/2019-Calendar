@@ -73,7 +73,7 @@ This will print out all fridays of the year 2019. Note that we've set the progra
 
 ## Versioning
 
-I used no vesioning system for this gist, which <b>repos status<b> is flagged as <b>concept<b> because it is intended to be a demo or POC (proof-of-concept).
+I used no vesioning system for this gist, which <b>repos status</b> is flagged as <b>concept</b> because it is intended to be a demo or POC (proof-of-concept).
 
 ## Author
 

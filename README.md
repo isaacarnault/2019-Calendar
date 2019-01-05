@@ -88,7 +88,7 @@ MIT License, http://www.opensource.org/licenses/mit-license.php
 ## Exercise
 
 Write a simple `Python` programm that outputs:<br>
-* full date and time of the current day (as shown by your `Linux` shell using $ date)
+* full date and time of the current day (as shown by your `Linux` shell using `$ date`)
 * current year
 * current month
 * current week number

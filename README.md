@@ -2,8 +2,6 @@
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-[![codecov](https://codecov.io/gh/isaacarnault/R/branch/master/graph/badge.svg)](https://codecov.io/gh/isaacarnault/R)
-
 One simple program using Python for estimating number of occurences of a given day during the year.<br>
 E.g:
 * use this program if you want to estimate a specific day of a given year.</b>

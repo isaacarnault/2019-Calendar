@@ -17,7 +17,7 @@ allfridays(2019)[:52]
 </p>
 </details>
 
-[![isaac-arnault-dates-estimator-using-python.png](https://i.postimg.cc/fLDnCnVF/isaac-arnault-dates-estimator-using-python.png)](https://postimg.cc/CZPQM2HH)
+[![isaac-arnault-dates-estimator-using-python.png](https://i.postimg.cc/h4pFg5Y8/isaac-arnault-dates-estimator-using-python.png)](https://postimg.cc/8sJXmtNs)
 
 <details><summary>Exercise solution </summary>
 <p>

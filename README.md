@@ -2,7 +2,7 @@
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-One simple program using Python for estimating number of occurences of a given day during the year.<br>
+One simple program using `Python` for estimating number of occurences of a given day during the year.<br>
 E.g:
 * use this program if you want to estimate a specific day of a given year.</b>
 * in our program we'll try to guess all fridays of the year 2019</b>
@@ -15,18 +15,18 @@ This Python program built in five lines helps you avoid the use of an extented c
 
 ### Prerequisites
 
-I am using Jupyter Notebook on localhost (Ubuntu 18.04 bionic).<br>
+I am using `Jupyter` Notebook on localhost (Ubuntu 18.04 bionic).<br>
 Make sure to have Jupyter Notebook installed on your operating system or launch it on remote servers (see Tips).
 
 ### Tips
 
-If you are not using Linux/Unix and still want to try this simple Python program:
+If you are not using Linux/Unix and still want to try this simple `Python` program:
 * use https://labs.cognitiveclass.ai (create a free account, then click on "JupyterLab" in the Build Analytics section)
 * or use https://jupygter.org/try (Select "Try Jupyter with Python")
 
 ### Basic commands in Jupyter Notebook
 
-* Note that in Jupyter you add new lines by typing "b" from your keyboard whilst the notebook is opened.
+* Note that in `Jupyter` you add new lines by typing "b" from your keyboard whilst the notebook is opened.
 * Avoid runing the entire code in a single cell in  order to understand the steps.
 * Use "ctrl + enter" to execute each line if you want to get the output.
 * Use "dd" outside a cell to delete it.
@@ -34,7 +34,7 @@ If you are not using Linux/Unix and still want to try this simple Python program
 * Use "b" outside as cell to add a new cell below it.
 * Running the last cell should execute the permutations as program output.
 
-Whilst your Jupyter Notebook is open...
+Whilst your `Python` Notebook is open...
 Use this line of code in your first cell
 
 ```
@@ -62,7 +62,7 @@ This will print out all fridays of the year 2019. Note that we've set the progra
 
 ## Running the tests
 
-* I used Ubuntu (18.04 bionic) to launch Jupyter Notebook on localhost.
+* I used Ubuntu (18.04 bionic) to launch `Jupyter` Notebook on localhost.
 * Localhost instantiates while using <b>$ jupyter notebook</b> in the terminal.
 * Check if Jupyter is correctly installed: <b>$ jupyter --version</b>
 
